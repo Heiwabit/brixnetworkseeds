@@ -1,0 +1,2 @@
+# brixnetworkseeds
+Basic seed
