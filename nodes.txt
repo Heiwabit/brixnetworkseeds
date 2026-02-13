@@ -1,5 +1,6 @@
 # BriXNetwork Bootstrap Nodes
-# Updated: 2025-01-20
-5v2v5vq2jz6hjwzblnfvqr6rizbxllyst3wkcnfz7np2lskjsmrl2tqd.onion:8327
-203.0.113.45:8327 - this is just sample ip
-198.51.100.67:8327 - this is just sample ip
+# Updated: 2026-02-13
+  vSeeds.emplace_back("m2gmv25af6zprc3sq6nfdjua5sazyhfgputceyzuyfagshqu6vacj6id.onion:8327");
+        vSeeds.emplace_back("5v2v5vq2jz6hjwzblnfvqr6rizbxllyst3wkcnfz7np2lskjsmrl2tqd.onion:8327");
+        vSeeds.emplace_back("151.236.24.137:8327"); this is bridge 
+
